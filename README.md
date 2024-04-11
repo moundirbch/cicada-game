@@ -1,7 +1,4 @@
 hey guys 
-<div align="center">
-  <img src="./images/logo.png" width="300px" />
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20By-VladimirMiku
