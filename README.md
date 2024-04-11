@@ -27,17 +27,11 @@ The server needs these environment variables to run:
 
 ## :camera_flash: Screenshots
 - Play alone or join others, your choice!
-<div>
-  <img src="./images/singleplayer.png" style="margin-right: 2rem;" height="600px" align="left" />
-  <img src="./images/multiplayer.png" height="600px" align="left" />
-</div>
+https://github.com/moundirbch/cicada-game/issues/2#issue-2237716600
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div>
-  <img src="./images/hangman.png" style="margin-right: 2rem;" height="600px" align="left" />
-  <img src="./images/trivia.png" height="600px" align="left" />
-</div>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
