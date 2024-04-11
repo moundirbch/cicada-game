@@ -1,4 +1,5 @@
 hey guys 
+![logo](https://github.com/moundirbch/cicada-game/assets/131757764/bad06ae2-e550-4232-b721-324e9b0c01f3)
 ## :package: Installation (development)
 
 ```shell
