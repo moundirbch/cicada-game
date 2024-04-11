@@ -3,15 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20By-VladimirMikulic-blue">
-  <img src="https://badges.frapsoft.com/os/v1/open-source.png?v">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
-  <img src="https://img.shields.io/twitter/follow/VladoDev.svg?style=social">
-</div>
-
-<h4 align="center">
-  🎮 Gaming platform powered by Twilio SMS.
-</h4>
+  <img src="https://img.shields.io/badge/Made%20By-VladimirMiku
 
 ## :package: Installation (development)
 
