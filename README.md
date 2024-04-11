@@ -1,8 +1,4 @@
 hey guys 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20By-VladimirMiku
-
 ## :package: Installation (development)
 
 ```shell
