@@ -27,7 +27,10 @@ The server needs these environment variables to run:
 
 ## :camera_flash: Screenshots
 - Play alone or join others, your choice!
-https://github.com/moundirbch/cicada-game/issues/2#issue-2237716600
+![hangman](https://github.com/moundirbch/cicada-game/assets/131757764/018c9d7a-a150-4084-81af-8b3bd9dcb9da)
+![mp-player1](https://github.com/moundirbch/cicada-game/assets/131757764/b9ac5951-a208-4381-9794-c800832bae53)
+![singleplayer](https://github.com/moundirbch/cicada-game/assets/131757764/b2830fd1-e27d-4366-a41f-a95d19283041)
+![guess-number](https://github.com/moundirbch/cicada-game/assets/131757764/98a80f5d-4cd1-40cd-8e22-07299faf03df)
 
 ## :man: Author
 **Moundir Bch**
