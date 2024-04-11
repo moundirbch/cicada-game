@@ -29,13 +29,6 @@ The server needs these environment variables to run:
 - Play alone or join others, your choice!
 https://github.com/moundirbch/cicada-game/issues/2#issue-2237716600
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ## :man: Author
 **Moundir Bch**
 
