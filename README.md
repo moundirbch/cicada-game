@@ -1,3 +1,4 @@
+hey guys 
 <div align="center">
   <img src="./images/logo.png" width="300px" />
 </div>
@@ -23,9 +24,6 @@ After you've started the development server, follow [this guide](https://www.twi
 In the development, place your environment variables in `.env` file. The file is automatically loaded when server starts. (Required environment variables are mentioned below)
 
 ## :cloud: Deployment
-
-To deploy the server to production, you'll need a cloud hosting provider. Some of the popular ones are [Heroku](https://www.heroku.com/), [Digital Ocean](https://www.digitalocean.com/) and [AWS](https://aws.amazon.com/).
-
 The server needs these environment variables to run:
 
 - TWILIO_ACCOUNT_SID
@@ -54,11 +52,6 @@ The server needs these environment variables to run:
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## :man: Author
-
 **Moundir Bch**
-
-
-
-
 
 Give a ⭐️ if you like this project!
